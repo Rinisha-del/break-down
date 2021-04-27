@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+JAVA (jdk) INSTALLATION:
+-----------------------------------------------------------------
+Pre-Requests:
+	- Kindly check weather Jdk already installed on your PC. - Not installed.
+	- If it is installed make a note of JDK version and contact Your Team Lead.
+-----------------------------------------------------------------
+
+Go to JDK Folder.
+	- Extract the ZIP file by using WINRAR.Select Extract To option.
+	- Run the jdk setup file.
+	- Click Next for further steps.
+	- Follow the Steps Carefully.
+
+SETTING ENVIRONMENT VARIABLE:
+	- Goto C:/Program Files/Java/Jdk/Bin
+	- Copy the path. 
+	- Right click on your - My Computer or This PC.
+	- Go to properties.
+	- Select Advanced system Settings on the left menu - last Option.
+	- On the system Properties panel -  Click Environmental Variables
+	- Click on New.
+	- Type Path in name and Paste the url Copied in Value.
+`	- Apply and Click On for all.
+
+The jdk installation is completed
+=================================== End ========================================
